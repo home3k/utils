@@ -12,7 +12,7 @@
 SKGO_SSH_CONFIG=`cat ~/.skgosshrc`
 BORDER_LINE="\033[44;37m############################################################ \033[0m"
 echo -e $BORDER_LINE
-echo -e "\033[44;37m#                     [S-K-G-O S-S-H]                           # \033[0m"
+echo -e "\033[44;37m#                     [S-K-G-O S-S-H]                      # \033[0m"
 echo -e "\033[44;37m#                                                          # \033[0m"
 echo -e "\033[44;37m#                                                          # \033[0m"
 i=0;
